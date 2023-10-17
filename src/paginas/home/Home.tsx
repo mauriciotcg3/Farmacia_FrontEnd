@@ -1,7 +1,6 @@
 import React from 'react';
 import './Home.css';
 import pessoasImagem from '../../assets/pessoasFarmacia.png';
-import remedioOne from '../../assets/remedio1.png';
 
 function Home() {
     return (
