@@ -1,0 +1,27 @@
+.frasco{
+    height: 160px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    width: 151px;
+}
+
+.rectangle{
+    background-color: #ededed;
+    height: 352px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1440px;
+}
+
+.rectangleRemedio{
+    background-color: #ffffff;
+    border-radius: 32px;
+    height: 300px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 250px;
+}
